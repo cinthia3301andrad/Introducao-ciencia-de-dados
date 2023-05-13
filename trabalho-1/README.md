@@ -21,5 +21,6 @@ Para executar o código, certifique-se de ter as seguintes bibliotecas instalada
 - re
 
 Em seguida, basta rodar o seguinte comando no terminal:
-
+~~~python
 python3 web_dataset_carros-codigo-oficial.py
+~~~
